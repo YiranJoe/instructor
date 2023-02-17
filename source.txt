@@ -1,0 +1,4 @@
+Twarog, Adrian. “Advanced CHATGPT Guide - How to Build Your Own Chat GPT Site.” YouTube, YouTube, 21 Dec. 2022, https://www.youtube.com/watch?v=bB7xkRsEq-g&amp;t=1927s.  
+
+
+OpenAI API, https://platform.openai.com/docs/introduction/overview. 
